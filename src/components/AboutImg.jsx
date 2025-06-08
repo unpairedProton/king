@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import demoImg from "../assets/images/king_about.png"; // Uncomment and fix this import
+import demoImg from "../assets/images/king_about.webp"; // Uncomment and fix this import
 
 export default function ParallaxImageStack() {
   const containerRef = useRef(null);

@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-// import demoImg from "../assets/images/king3.jpg";
+// import demoImg from "../assets/images/king3.webp";
 import { images } from "../assets/constants";
 
 export default function ParallaxImageStack() {
@@ -7,9 +7,6 @@ export default function ParallaxImageStack() {
   const imagesRef = useRef([]);
   const [isHovering, setIsHovering] = useState(false);
 
-  // Example image - replace with your actual image path
-  // const demoImage =
-  //   "https://images.prismic.io/arock-website-2023/9ef06a29-91de-4fb2-bb2a-2d208f8fcc2a_AROCK-_1497.jpg";
   const demoImage =
     images.find((image) => image.id === "menu").image;
 

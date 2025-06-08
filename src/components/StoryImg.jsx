@@ -1,16 +1,16 @@
 import React from 'react'
-import hustleImg from '../assets/images/story/hustle.png'
-import tuAakeImg from '../assets/images/story/tu_aake.png'
-import maanImg from '../assets/images/story/maan.png'
-import afterlifeImg from '../assets/images/story/afterlife.png'
-import gucciImg from '../assets/images/story/gucci.png'
-import juliaImg from '../assets/images/story/julia.png'
-import grammyImg from '../assets/images/story/grammy.png'
-import bumpaImg from '../assets/images/story/bumpa.png'
-import cannesImg from '../assets/images/story/cannes.png'
-import forbesImg from '../assets/images/story/forbes.png'
-import sonyImg from '../assets/images/story/sony.png'
-import alanImg from '../assets/images/story/alan.png'
+import hustleImg from '../assets/images/story/hustle.webp'
+import tuAakeImg from '../assets/images/story/tu_aake.webp'
+import maanImg from '../assets/images/story/maan.webp'
+import afterlifeImg from '../assets/images/story/afterlife.webp'
+import gucciImg from '../assets/images/story/gucci.webp'
+import juliaImg from '../assets/images/story/julia.jpg'
+import grammyImg from '../assets/images/story/grammy.webp'
+import bumpaImg from '../assets/images/story/bumpa.webp'
+import cannesImg from '../assets/images/story/cannes.webp'
+import forbesImg from '../assets/images/story/forbes.webp'
+import sonyImg from '../assets/images/story/sony.webp'
+import alanImg from '../assets/images/story/alan.webp'
 
 
 const StoryImg = () => {
@@ -30,7 +30,7 @@ const StoryImg = () => {
 
     {imgUrl:maanImg,
       date: "2022",
-      title: "Maan Meri Jaan Song - Spotify India’s Most Streamed Song",
+      title: "Maan Meri Jaan Song - Spotify India's Most Streamed Song",
       Desc: "In 2022, King's 'Maan Meri Jaan' from the album 'Champagne Talk' became Spotify India's most streamed song of 2023. This monumental hit also topped charts on Apple Music and Shazam, cementing its global recognition.",
     },
 

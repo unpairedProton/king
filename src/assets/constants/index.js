@@ -1,5 +1,5 @@
-import heroImg from "../images/king.jpg";
-import menuImg from "../images/king3.jpg";
+import heroImg from "../images/king.webp";
+import menuImg from "../images/king3.webp";
 
 export const images = [
     {

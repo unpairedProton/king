@@ -1,6 +1,6 @@
 import React from "react";
-import MenuImg from "./MenuImg";
-import MenuText from "./MenuText";
+import MenuImg from "../components/MenuImg";
+import MenuText from "../components/MenuText";
 
 const Menu = () => {
   return (

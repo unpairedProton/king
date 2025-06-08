@@ -1,7 +1,7 @@
 import React from "react";
-import Navbar from "./Navbar.jsx";
-import ReleaseList from "./ReleaseList.jsx";
-import ReleaseVideo from "./ReleaseVideo.jsx";
+import Navbar from "../components/Navbar.jsx";
+import ReleaseList from "../components/ReleaseList.jsx";
+import ReleaseVideo from "../components/ReleaseVideo.jsx";
 
 const Release = () => {
   return (

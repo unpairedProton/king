@@ -1,10 +1,10 @@
 import React from 'react'
 import { Routes,Route } from 'react-router-dom'
-import Home from '../components/Home'
-import Menu from '../components/Menu'
-import About from '../components/About'
-import Story from '../components/Story'
-import Release from '../components/Release'
+import Home from '../pages/Home'
+import Menu from '../pages/Menu'
+import About from '../pages/About'
+import Story from '../pages/Story'
+import Release from '../pages/Release'
 
 
 const Routing = () => {

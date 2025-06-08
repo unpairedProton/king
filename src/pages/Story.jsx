@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from './Navbar.jsx'
-import StoryImg from './StoryImg.jsx'
-import StoryText from './StoryText.jsx'
+import Navbar from '../components/Navbar.jsx'
+import StoryImg from '../components/StoryImg.jsx'
+import StoryText from '../components/StoryText.jsx'
 
 
 const Story = () => {

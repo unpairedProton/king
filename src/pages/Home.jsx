@@ -1,12 +1,12 @@
 import React, { useEffect, useRef } from "react";
 // import logo from "../assets/images/king_logo2.png";
 // import heroImg from "../assets/images/king.jpg";
-import Loading from "./Loading";
+import Loading from "../components/Loading";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { Link, Links } from "react-router-dom";
 import { images } from "../assets/constants";
-import Navbar from "./Navbar";
+import Navbar from "../components/Navbar";
 
 const Home = () => {
   const heroBg = useRef(null);

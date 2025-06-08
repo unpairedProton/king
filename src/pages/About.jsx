@@ -1,7 +1,7 @@
 import React from 'react'
-import AboutImg from './AboutImg.jsx'
-import AboutText from './AboutText.jsx'
-import Navbar from './Navbar.jsx'
+import AboutImg from '../components/AboutImg.jsx'
+import AboutText from '../components/AboutText.jsx'
+import Navbar from '../components/Navbar.jsx'
 
 const About = () => {
   return (
